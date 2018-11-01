@@ -14,3 +14,4 @@ end
 # echo
 # liberty-fish.co.jp
 # 長堀橋
+# 大阪
